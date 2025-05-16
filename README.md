@@ -127,3 +127,9 @@ Les principales difficultés rencontrées et surmontées :
 2. Observer les données des capteurs en temps réel
 3. Utiliser les contrôles pour modifier le mode du capteur VL6180X
 4. Contrôler la vitesse du moteur Dynamixel manuellement
+
+
+## Screenshots:
+
+![Project_overview](image.jpg)
+![user_interface](ihm.jpg)
